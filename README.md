@@ -1,5 +1,4 @@
 # hello-world
-Starting github
 
 Hello people!
 
